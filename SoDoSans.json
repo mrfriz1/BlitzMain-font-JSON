@@ -1,8 +1,6 @@
 {
-    "spec": "1",
+    "spec": 1,
     "name": "SplatFont2(BlitzMain)",
     "previewText": "SoDo Sans is a font designed by Starbucks for its branding",
-    "main": {
-        "https://github.com/mrfriz1/BlitzMain-font-JSON/blob/fe5c14bbb0b9a63275dfa47b323451e30a765fd3/Splatfont2.ttf?raw=1"
-    }
+    "main": "https://github.com/mrfriz1/BlitzMain-font-JSON/blob/fe5c14bbb0b9a63275dfa47b323451e30a765fd3/Splatfont2.ttf?raw=1",
 }
