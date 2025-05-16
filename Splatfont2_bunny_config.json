@@ -2,7 +2,7 @@
   "fonts": [
     {
       "name": "Splatfont2",
-      "url": "https://example.com/fonts/Splatfont2.ttf",
+      "url": "https://github.com/mrfriz1/BlitzMain-font-JSON/blob/main/Splatfont2.ttf",
       "weight": "400",
       "style": "normal"
     }
