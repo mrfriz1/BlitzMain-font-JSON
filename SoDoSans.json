@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "SoDo Sans",
+    "previewText": "SoDo Sans is a font designed by Starbucks for its branding",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Black.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Black.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-BlackItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-SemiBold.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-SemiBoldItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-SemiBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/sodo%20sans/SoDoSans-SemiBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSans-SemiBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/itznathanielb/sodosansbunny/blob/main/Noto%20Sans/NotoSansMono-SemiBold.ttf?raw=1"
+    }
+}
